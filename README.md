@@ -1,6 +1,6 @@
-### Welcome to the mato 🍃🍃
+### Welcome to the mato 🍃🍃🍃
 
-Estudante de desenvolvimento de sistemas e 
+Estudante de desenvolvimento de sistemas
 
 - 🕹 Games como hobbie principal
 - 🖥 Dev em lua em horas vagas
