@@ -28,7 +28,7 @@ Estudante de desenvolvimento de sistemas
 <div>
 <h3>Status:</h3>
 <a href="https://github.com/NaldinhoDev">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaldinhoDev&layout=compact&langs_count=7&theme=radical"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaldinhoDev&layout=compact&langs_count=8&theme=radical"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NaldinhoDev&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
 </div>
   
