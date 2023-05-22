@@ -31,4 +31,4 @@ Estudante de desenvolvimento de sistemas e
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NaldinhoDev&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
 </div>
   
-![Snake animation](https://github.com/NaldinhoDev/NaldinhoDev/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/NaldinhoDev/NaldinhoDev/blob/output/github-contribution-grid-snake.svg)
