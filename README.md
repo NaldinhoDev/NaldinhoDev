@@ -3,7 +3,10 @@
 Estudante de desenvolvimento de sistemas e 
 
 - 🕹 Games como hobbie principal
-- 🖥 
+- 🖥 Dev em lua em horas vagas
+- 🎵 Editor de musicas
+- 🎥 Editor de videos e cinematics
+- 🗣️ Ingles para leitura e conversação digital
 - ⚙ Conhecimentos em: 
 <div style="display: inline">
   <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />  
