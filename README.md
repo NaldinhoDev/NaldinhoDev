@@ -1,12 +1,9 @@
-### Welcome to the mato 🍃🍃🍃
-
-Estudante de desenvolvimento de sistemas
-
-- 🕹 Games como hobbie principal
-- 🖥 Dev em lua em horas vagas
-- 🎵 Editor de musicas
-- 🎥 Editor de videos e cinematics
-- 🗣️ Ingles para leitura e conversação digital
+Técnico em desenvolvimento de sistemas
+Cursando Analise e dev de sistemas(unicesumar)
+- 🕹 Gamer em horas vagas
+- 🖥 Sempre procurando a experiencia em coisas novas
+- 🎥 Suporte em hardware
+- 🗣️ Ingles intermediario 
 - ⚙ Conhecimentos em: 
 <div style="display: inline">
   <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />  
