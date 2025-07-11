@@ -32,6 +32,15 @@ Estudante de desenvolvimento de sistemas
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NaldinhoDev&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
 </div>
   
-### 🐍 Snake das suas contribuições
+## 🐍 Snake das suas contribuições
+
+### SVG padrão
 ![Snake animation](https://naldinhodev.github.io/NaldinhoDev/dist/github-snake.svg)
+
+### Versão escura
+![Snake dark](https://naldinhodev.github.io/NaldinhoDev/dist/github-snake-dark.svg)
+
+### GIF animado
+![Snake gif](https://naldinhodev.github.io/NaldinhoDev/dist/ocean.gif)
+
 
