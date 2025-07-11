@@ -34,15 +34,3 @@ Cursando Analise e dev de sistemas(unicesumar)
 </a>
 </div>
 
----
-
-## 🐍 Snake das suas contribuições
-
-### SVG padrão
-![Snake animation](https://naldinhodev.github.io/NaldinhoDev/dist/github-snake.svg)
-
-### Versão escura
-![Snake dark](https://naldinhodev.github.io/NaldinhoDev/dist/github-snake-dark.svg)
-
-### GIF animado
-![Snake gif](https://naldinhodev.github.io/NaldinhoDev/dist/ocean.gif)
