@@ -1,0 +1,30 @@
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # Executa todo dia à meia-noite UTC
+  workflow_dispatch:     # Permite rodar manualmente pelo GitHub Actions
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    name: Generate Snake
+
+    steps:
+      - uses: actions/checkout@v3   # Faz o checkout do código
+
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: NaldinhoDev
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+
+      - name: Commit generated files
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add dist/*
+          git commit -m "Generate contribution snake"
+          git push
