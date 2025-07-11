@@ -33,6 +33,5 @@ Estudante de desenvolvimento de sistemas
 </div>
   
 ### 🐍 Snake das suas contribuições
-
-![Snake dark](https://naldinhodev.github.io/NaldinhoDev/dist/github-snake-dark.svg)
+![Snake animation](https://naldinhodev.github.io/NaldinhoDev/dist/github-snake.svg)
 
